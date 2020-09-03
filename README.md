@@ -10,14 +10,18 @@
 
 ### 联系方式 (Contact Info)
 
-首选“[Signal (暗号)](https://signal.org)”和“[Session (会话)](https://getsession.org)”
+首选“[Signal（暗号）](https://signal.org)”和“[Session（会话）](https://getsession.org)”
 通讯工具，因为它们都是端到端加密的。希望将来 Signal 能把 Session 的一些新特性（比如无需手机号、
 采用洋葱路由网络等）合进来，尽管这在一定程度上会影响用户体验（The Signal and Session Messengers
 are preferred, because they are both End-to-End encrypted. Hope Signal will merge the
 new features of Session(e.g.: don't need phone number and use onion routing), even
 though this will impact on user experience in someway)。
 
-参见 (See also): https://signal.org and https://getsession.org .
+参见 (See also):
+
+  Signal（暗号） : https://signal.org and https://github.com/signalapp/ .
+
+  Session（会话）: https://getsession.org and https://github.com/loki-project/ .
 
 #### Signal Messenger & Phone
 
