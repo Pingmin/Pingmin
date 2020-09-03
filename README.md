@@ -10,13 +10,22 @@
 
 ### 联系方式 (Contact Info)
 
-首选 Signal (暗号) (The Signal Messenger is preferred).
+首选“Signal (暗号)”和“Session (会话)”通讯工具，因为它们都是端到端加密的。
+希望将来 Signal 能把 Session 的一些新特性（比如无需手机号、采用洋葱路由网络等），
+尽管这在一定程序上会影响用户体验（The Signal and Session Messengers are preferred,
+because they are both End-to-End encrypted. Hope Signal will merge the new
+features of Session(e.g.: don't need phone number and use onion routing),
+even though this will impact on user experience in someway)。
 
-参见 (See also): https://signal.org .
+参见 (See also): https://signal.org and https://getsession.org .
 
-#### Signal & Phone
+#### Signal Messenger & Phone
 
 +86 150 xxxx xxxx ( ^_^ )
+
+#### Session Messenger
+
+Session ID: 05e19ab979af21832995678a40815249a021e01fb104749856cd7d343809ca652b
 
 #### iMessage & Email
 
