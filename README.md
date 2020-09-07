@@ -47,9 +47,11 @@ Session ID:
 
   05e19ab979af21832995678a40815249a021e01fb104749856cd7d343809ca652b
 
+<!--
 Session QR code:
 
   ![Pingmin Session Messenger QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png)
+-->
 
 #### iMessage & Email
 
