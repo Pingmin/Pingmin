@@ -8,6 +8,17 @@
 " You're Only Live Once (YOLO) / Follow Your Heart | Liberal Democracy / Think Copyleft | ... "
 
 
+### 个人网站 (Personal Websites)
+
+#### 主页 (Home Page)
+
+https://pingmin.me
+
+#### 博客 (Blog)
+
+https://pingmin.blog
+
+
 ### 联系方式 (Contact Info)
 
 首选“[Signal（暗号）](https://signal.org)”和“[Session（会话）](https://getsession.org)”
@@ -17,8 +28,8 @@ because they are both End-to-End encrypted）。
 Signal 目前需要使用手机号注册（[将来可能不要](https://github.com/signalapp/Signal-Android/issues/9987#issuecomment-687079774)）；
 Session 则无需手机号，并去掉了一些敏感元数据、采用了去中心化的洋葱路由网络等
 （Signal needs a phone number to register [at present](https://github.com/signalapp/Signal-Android/issues/9987#issuecomment-687079774);
-Session is forked from Singal, but doesn't need phone numbers, and removes
-sensitive metadata collection）。
+Session is forked from Singal, but doesn't need phone numbers, removes
+sensitive metadata collection and uses onion routing network）。
 
 参见 (See also):
 
@@ -43,17 +54,6 @@ Session QR code:
 #### iMessage & Email
 
 Pingmin(at)Fenlly.org  [ "(at)" >> "@" ]
-
-
-### 个人网站 (Personal Websites)
-
-#### 主页 (Home Page)
-
-https://pingmin.me
-
-#### 博客 (Blog)
-
-https://pingmin.blog
 
 
 ### 社交网络 (Social Network)
