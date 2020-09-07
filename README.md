@@ -11,11 +11,14 @@
 ### 联系方式 (Contact Info)
 
 首选“[Signal（暗号）](https://signal.org)”和“[Session（会话）](https://getsession.org)”
-通讯工具，因为它们都是端到端加密的。希望将来 Signal 能把 Session 的一些新特性（比如无需手机号、
-采用洋葱路由网络等）合进来，尽管这在一定程度上会影响用户体验（The Signal and Session Messengers
-are preferred, because they are both End-to-End encrypted. Hope Signal will merge the
-new features of Session(e.g.: don't need phone number and use onion routing), even
-though this will impact on user experience in someway)。
+通讯工具，因为它们都是端到端加密的（The Signal and Session Messengers are preferred,
+because they are both End-to-End encrypted）。
+
+Signal 目前需要使用手机号注册（[将来可能不要](https://github.com/signalapp/Signal-Android/issues/9987#issuecomment-687079774)）；
+Session 则无需手机号，并去掉了一些敏感元数据、采用了去中心化的洋葱路由网络等
+（Signal needs a phone number to register [at present](https://github.com/signalapp/Signal-Android/issues/9987#issuecomment-687079774);
+Session is forked from Singal, but doesn't need phone numbers, and removes
+sensitive metadata collection）。
 
 参见 (See also):
 
