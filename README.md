@@ -41,6 +41,8 @@ sensitive metadata collection and uses onion routing network）。
 
 +86 150 xxxx xxxx ( ^_^ )
 
+[PingminDream's signal group](https://signal.group/#CjQKIIkeDpOOSNVq-Xy0Rr1mpVj9a84Ea9H2dfZ3UJEN_BrPEhC_irR2Id97zIUFKqJ0BHwX) (Open in Signal messenger to join and contact me)
+
 #### 3.2 Session Messenger
 
 Session ID:
