@@ -45,14 +45,12 @@ sensitive metadata collection and uses onion routing network）。
 
 #### 3.2 Session Messenger
 
-Session ID:
+Session ID's QR code:
 
-  05e19ab979af21832995678a40815249a021e01fb104749856cd7d343809ca652b
+  [Pingmin Session ID's QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 
 <!--
-Session QR code:
-
-  ![Pingmin Session Messenger QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png)
+  ![Pingmin Session ID's QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 -->
 
 #### 3.3 iMessage & Email
