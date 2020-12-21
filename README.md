@@ -5,7 +5,7 @@
 
 " 生命只有一次 / 从心而为 | 自由民主 / Think Copyleft | 苟全性命于乱世，不求闻达于诸候 / 静以修身，简以养德；淡泊明志，宁静致远 / 久在樊笼里，不得返自然 | Good Luck / 祝你好运 "
 
-" You're Only Live Once (YOLO) / Follow Your Heart | Liberal Democracy / Think Copyleft | ... "
+" You're Only Live Once(YOLO) / Follow Your Heart(FYH) | Liberal Democracy(LD) / Think Copyleft | ... "
 
 
 ### 2. 个人网站 (Personal Websites)
