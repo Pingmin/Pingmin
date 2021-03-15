@@ -29,9 +29,11 @@ Session 则无需手机号，并去掉了一些敏感元数据、采用了去中
 
 参见 (See also):
 
-  Signal（暗号） : https://signal.org and https://github.com/signalapp/ . Tip: [Signal Android APK](https://signal.org/android/apk/), esp. for users who can't access the Google Play.
+  Signal（暗号）: https://signal.org and https://github.com/signalapp/ . Tip: [Signal Android APK](https://signal.org/android/apk/), esp. for users who can't access the Google Play.
 
   Session（会话）: https://getsession.org and https://github.com/oxen-io/ .
+
+  FENLLY™ Favorites（风灵®收藏）: https://fenlly.org/favorites/ .
 
 #### 3.1 Signal Messenger & Phone
 
