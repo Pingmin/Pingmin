@@ -1,9 +1,9 @@
 ## 平民·寻梦 (Pingmin Fenlly Liu)
 
 
-### 1. 格言/座右铭 (Motto)
+### 1. 格言/座右铭 (Mottos)
 
-" 生命只有一次 / 从心而为 | 自由民主 / Think Copyleft | 苟全性命于乱世，不求闻达于诸候 / 静以修身，简以养德；淡泊明志，宁静致远 / 久在樊笼里，不得返自然 | Good Luck / 祝你好运 "
+" 生命只有一次 / 从心而为 | 自由民主 / Think Copyleft | 苟全性命于乱世，不求闻达于诸候 / 静以修身，简以养德；淡泊明志，宁静致远 / 久在樊笼里，不得返自然 | 向袁隆平致敬 / 为了忘却地纪念鲁迅 | Good Luck / 祝你好运 "
 
 " You're Only Live Once(YOLO) / Follow Your Heart(FYH) | Liberal Democracy(LD) / Think Copyleft | ... "
 
