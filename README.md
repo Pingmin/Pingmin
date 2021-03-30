@@ -21,29 +21,21 @@ https://pingmin.blog
 
 ### 3. 联系方式 (Contact Info)
 
-推荐使用“[Signal（暗号）](https://signal.org)”（目前首选）和“[Session（会话）](https://getsession.org)”
-通讯工具，因为它们的通讯都使用了 Signal Protocol（暗号协议）来进行端到端加密（Recommend the [Signal](https://signal.org)(Preferred at present) and [Session](https://getsession.org) messengers, because their messaging data are both end-to-end encrypted by the Signal Protocol）。
+推荐使用“[Session（会话）](https://getsession.org)”私密通讯工具（Recommend to use the [Session](https://getsession.org) private messenger）。
 
-Signal 目前需要使用手机号注册（[将来可能不要](https://github.com/signalapp/Signal-Android/issues/9987#issuecomment-687079774)）；
-Session 则无需手机号，并去掉了一些敏感元数据、采用了去中心化的洋葱路由网络等（Signal needs a phone number to register at present([Probably doesn't need in the feature](https://github.com/signalapp/Signal-Android/issues/9987#issuecomment-687079774));Session is forked from Singal, but doesn't need phone numbers, removes sensitive metadata collection and uses onion routing network）。
+Session（会话）基于早期的 [Signal（暗号）](https://signal.org)，但无需手机号，并去掉了一些敏感元数据、采用了去中心化的洋葱路由网络等（Session messenger is forked from Signal messenger, but doesn't need phone numbers, removes sensitive metadata collection and uses onion routing network）。
 
 参见 (See also):
 
-  Signal（暗号）: https://signal.org and https://github.com/signalapp/ . Tip: [Signal Android APK](https://signal.org/android/apk/), esp. for users who can't access the Google Play.
+  [Session（会话）](https://getsession.org): https://getsession.org and https://github.com/oxen-io/ .
 
-  Session（会话）: https://getsession.org and https://github.com/oxen-io/ .
+  [《安全即时讯（Secure IM）》](https://pingmin.blog/post/secure-im.html)： https://pingmin.blog/post/secure-im.html .
 
-  FENLLY® Favorites（风灵®收藏）: https://fenlly.org/favorites/ .
+  [FENLLY® Favorites（风灵®收藏）](https://fenlly.org/favorites/): https://fenlly.org/favorites/ .
 
-#### 3.1 Signal Messenger & Phone
+#### 3.1 Session Messenger
 
-+86 150 xxxx xxxx ( ^_^ )
-
-[PingminDream's Signal group](https://signal.group/#CjQKIIkeDpOOSNVq-Xy0Rr1mpVj9a84Ea9H2dfZ3UJEN_BrPEhC_irR2Id97zIUFKqJ0BHwX) (Open in Signal messenger to join and contact me)
-
-#### 3.2 Session Messenger
-
-Session ID's QR code:
+Pingmin Session ID's QR code:
 
   [Pingmin Session ID's QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 
@@ -51,7 +43,7 @@ Session ID's QR code:
   ![Pingmin Session ID's QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 -->
 
-#### 3.3 iMessage & FaceTime & Email
+#### 3.2 iMessage & FaceTime & Email
 
 iMessage/FaceTime/Email:
 
@@ -76,7 +68,9 @@ https://twitter.com/iPingmin
 
 #### 4.3 脸书 (Facebook)
 
-> Note: Maybe I will unregister my Facebook in someday.
+> 注：也许将来我会注销我的脸书账号。
+>
+> Note: Perhaps I will unregister my Facebook accounts in someday.
 
 https://www.facebook.com/iPingmin
 
