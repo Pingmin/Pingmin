@@ -31,7 +31,7 @@ Session（会话）基于早期的 [Signal（暗号）](https://signal.org)，�
 
   [《安全即时讯（Secure IM）》](https://pingmin.blog/post/secure-im.html)： https://pingmin.blog/post/secure-im.html .
 
-  [FENLLY® Favorites（风灵®收藏）](https://fenlly.org/favorites/): https://fenlly.org/favorites/ .
+  [FENLLY<sup>®</sup> Favorites（风灵<sup>®</sup>收藏）](https://fenlly.org/favorites/): https://fenlly.org/favorites/ .
 
 #### 3.1 Session Messenger
 
