@@ -66,13 +66,5 @@ ID : PingminDream
 
 https://twitter.com/iPingmin
 
-#### 4.3 脸书 (Facebook)
-
-> 注：也许将来我会注销我的脸书账号。
->
-> Note: Perhaps I will unregister my Facebook accounts in someday.
-
-https://www.facebook.com/iPingmin
-
 
 (The End)
