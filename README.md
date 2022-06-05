@@ -56,11 +56,11 @@ Secure Email:
 
 ### 4. 社交网络 (Social Network)
 
-#### 4.1 微信公众号 (WeChat Official Account)
+#### 4.1 微信公众号 (WeChat Official Accounts)
 
-名称 (Name) : 平民梦PingminDream
+[平民梦PingminDream](https://pingmin.me/images/wechat-public.jpg "平民梦PingminDream")（已于 20220605 被封（Blocked on 20220605））
 
-ID : PingminDream
+[风灵学园FENLLY](https://pingmin.me/img/fenlly-qr-codes/wechat-official-account-fenlly.jpg "风灵学园FENLLY")
 
 #### 4.2 推特 (Twitter)
 
