@@ -18,6 +18,11 @@ https://pingmin.me
 
 https://pingmin.blog
 
+#### 2.3 基于长毛象的联邦宇宙式微博（Fediverse Miroblog Powered by Mastodon）
+
+https://m.pingmin.me
+
+[@i@m.pingmin.me](https://m.pingmin.me/@i)
 
 ### 3. 联系方式 (Contact Info)
 
@@ -27,7 +32,7 @@ Session（会话）基于早期的 [Signal（暗号）](https://signal.org)，�
 
 参见 (See also):
 
-  [Session（会话）](https://getsession.org): https://getsession.org and https://github.com/oxen-io/ .
+  [Session（会话）](https://getsession.org): https://getsession.org and https://github.com/session-foundation/ .
 
   [《安全即时讯（Secure IM）》](https://pingmin.blog/post/secure-im.html)： https://pingmin.blog/post/secure-im.html .
 
@@ -37,10 +42,10 @@ Session（会话）基于早期的 [Signal（暗号）](https://signal.org)，�
 
 Pingmin Session ID's QR code:
 
-  [Pingmin Session ID's QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
+  [Pingmin Session ID's QR Code](https://img.pingmin.me/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 
 <!--
-  ![Pingmin Session ID's QR Code](https://pingmin.me/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
+  ![Pingmin Session ID's QR Code](https://img.pingmin.me/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 -->
 
 #### 3.2 iMessage & FaceTime & Email
@@ -60,11 +65,11 @@ Secure Email:
 
 [平民梦PingminDream](https://pingmin.me/images/wechat-public.jpg "平民梦PingminDream")（已于 20220605 被封（Blocked on 20220605））
 
-[风灵学园FENLLY](https://pingmin.me/img/fenlly-qr-codes/wechat-official-account-fenlly.jpg "风灵学园FENLLY")
+[风灵学园FENLLY](https://img.pingmin.me/fenlly-qr-codes/wechat-official-account-fenlly.jpg "风灵学园FENLLY")
 
-#### 4.2 推特 (Twitter)
+#### 4.2 X/推特 (X/Twitter)
 
-https://twitter.com/iPingmin
+https://x.com/iPingmin
 
 
 (The End)
