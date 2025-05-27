@@ -12,9 +12,13 @@
 
 #### 2.1 主页 (Home Page)
 
-https://pingmin.me
+https://pingmin.github.io
+
+https://www.pingmin.me
 
 #### 2.2 博客 (Blog)
+
+https://pingmin.github.io/blog/
 
 https://pingmin.blog
 
@@ -34,18 +38,18 @@ Session（会话）基于早期的 [Signal（暗号）](https://signal.org)，�
 
   [Session（会话）](https://getsession.org): https://getsession.org and https://github.com/session-foundation/ .
 
-  [《安全即时讯（Secure IM）》](https://pingmin.blog/post/secure-im.html)： https://pingmin.blog/post/secure-im.html .
+  [《安全即时讯（Secure IM）》](https://pingmin.github.io/blog/post/secure-im.html)： https://pingmin.github.io/blog/post/secure-im.html .
 
-  [FENLLY<sup>®</sup> Favorites（风灵<sup>®</sup>收藏）](https://fenlly.org/favorites/): https://fenlly.org/favorites/ .
+  [FENLLY<sup>®</sup> Favorites（风灵<sup>®</sup>收藏）](https://fenlly.github.io/favorites/): https://fenlly.github.io/favorites/ .
 
 #### 3.1 Session Messenger
 
 Pingmin Session ID's QR code:
 
-  [Pingmin Session ID's QR Code](https://img.pingmin.me/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
+  [Pingmin Session ID's QR Code](https://pingmin.github.io/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 
 <!--
-  ![Pingmin Session ID's QR Code](https://img.pingmin.me/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
+  ![Pingmin Session ID's QR Code](https://pingmin.github.io/img/pingmin-qr-codes/session-messenger.png "Pingmin Session ID's QR Code")
 -->
 
 #### 3.2 iMessage & FaceTime & Email
@@ -63,9 +67,9 @@ Secure Email:
 
 #### 4.1 微信公众号 (WeChat Official Accounts)
 
-[平民梦PingminDream](https://pingmin.me/images/wechat-public.jpg "平民梦PingminDream")（已于 20220605 被封（Blocked on 20220605））
+[平民梦PingminDream](https://pingmin.github.io/images/wechat-public.jpg "平民梦PingminDream")（已于 20220605 被封（Blocked on 20220605））
 
-[风灵学园FENLLY](https://img.pingmin.me/fenlly-qr-codes/wechat-official-account-fenlly.jpg "风灵学园FENLLY")
+[风灵学园FENLLY](https://pingmin.github.io/img/fenlly-qr-codes/wechat-official-account-fenlly.jpg "风灵学园FENLLY")
 
 #### 4.2 X/推特 (X/Twitter)
 
