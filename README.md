@@ -10,23 +10,30 @@
 
 ### 2. 个人网站 (Personal Websites)
 
-#### 2.1 主页 (Home Page)
+#### 2.1 基于长毛象的联邦宇宙式微博（Fediverse Miroblog Powered by Mastodon）
+
+https://pingmin.me
+
+[@i@pingmin.me](https://pingmin.me/@i)
+
+#### 2.2 GitHub 账号和网站（GitHub Account and `GitHub Pages` Website）
+
+https://github.com/Pingmin
 
 https://pingmin.github.io
 
+#### 2.3 个人主页 (Home Page)
+
+https://pingmin.github.io/www/
+
 https://www.pingmin.me
 
-#### 2.2 博客 (Blog)
+#### 2.4 博客 (Blog)
 
 https://pingmin.github.io/blog/
 
 https://pingmin.blog
 
-#### 2.3 基于长毛象的联邦宇宙式微博（Fediverse Miroblog Powered by Mastodon）
-
-https://m.pingmin.me
-
-[@i@m.pingmin.me](https://m.pingmin.me/@i)
 
 ### 3. 联系方式 (Contact Info)
 
@@ -65,13 +72,17 @@ Secure Email:
 
 ### 4. 社交网络 (Social Network)
 
-#### 4.1 微信公众号 (WeChat Official Accounts)
+#### 4.1 长毛象/乳齿象（Mastodon）
 
-[平民梦PingminDream](https://pingmin.github.io/images/wechat-public.jpg "平民梦PingminDream")（已于 20220605 被封（Blocked on 20220605））
+[@i@pingmin.me](https://pingmin.me/@i)
+
+#### 4.2 微信公众号 (WeChat Official Accounts)
+
+[平民梦PingminDream](https://pingmin.github.io/img/pingmin-qr-codes/wechat-official-account-pingmin-dream.jpg "平民梦PingminDream")（已于 20220605 被封（Blocked on 20220605））
 
 [风灵学园FENLLY](https://pingmin.github.io/img/fenlly-qr-codes/wechat-official-account-fenlly.jpg "风灵学园FENLLY")
 
-#### 4.2 X/推特 (X/Twitter)
+#### 4.3 X/推特 (X/Twitter)
 
 https://x.com/iPingmin
 
