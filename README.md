@@ -28,9 +28,9 @@ https://www.pingmin.me
 
 #### 2.4 博客 (Blog)
 
-https://pingmin.github.io/blog/
+https://pingmin.blog (This will be https://blog.pingmin.me instead)
 
-  > https://pingmin.blog
+  > https://pingmin.github.io/blog/ (Backup)
 
 
 ### 3. 联系方式 (Contact Info)
