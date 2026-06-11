@@ -24,9 +24,7 @@ https://pingmin.github.io
 
 #### 2.3 个人主页 (Home Page)
 
-https://liuzeping.github.io
-
-  > https://www.pingmin.me
+https://www.pingmin.me
 
 #### 2.4 博客 (Blog)
 
