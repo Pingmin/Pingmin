@@ -10,27 +10,27 @@
 
 ### 2. 个人网站 (Personal Websites)
 
-#### 2.1 基于长毛象的联邦宇宙式微博（Fediverse Miroblog Powered by Mastodon）
+#### 2.1 个人主页 (Home Page)
 
-https://m.pingmin.me
+https://www.pingmin.me
 
-[@i@m.pingmin.me](https://m.pingmin.me/@i)
+#### 2.2 博客 (Blog)
 
-#### 2.2 GitHub 账号和网站（GitHub Account and `GitHub Pages` Website）
+https://pingmin.blog (This will be https://blog.pingmin.me instead)
+
+  > https://pingmin.github.io/blog/ (Backup)
+
+#### 2.3 GitHub 账号和网站（GitHub Account and `GitHub Pages` Website）
 
 https://github.com/Pingmin
 
 https://pingmin.github.io
 
-#### 2.3 个人主页 (Home Page)
+#### 2.4 基于长毛象的联邦宇宙式微博（Fediverse Miroblog Powered by Mastodon）
 
-https://www.pingmin.me
+https://m.pingmin.me
 
-#### 2.4 博客 (Blog)
-
-https://pingmin.blog (This will be https://blog.pingmin.me instead)
-
-  > https://pingmin.github.io/blog/ (Backup)
+[@i@m.pingmin.me](https://m.pingmin.me/@i)
 
 
 ### 3. 联系方式 (Contact Info)
